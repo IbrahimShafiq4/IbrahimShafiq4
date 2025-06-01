@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ibrahimshafiq18" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimshafiq18?logo=twitter&style=for-the-badge" alt="ibrahimshafiq18" /></a> </p>
 
-- 🔭 I’m currently working on **Wa3y "XBlend Company project"
+- 🔭 I’m currently working on **ALMOTAFWEQ "XBlend Company project"
 
 - 👨‍💻 All of my projects are available at [https://ibrahimshafiq4.github.io/Main-Portfolio/](https://ibrahimshafiq4.github.io/Main-Portfolio/)
 
