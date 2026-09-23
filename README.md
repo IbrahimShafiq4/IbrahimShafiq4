@@ -13,7 +13,7 @@ Building end-to-end production systems — from SQL Server and ASP.NET Core Web 
 <p align="center">
 <a href="https://ib-portfolio-indol.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge" alt="portfolio"/></a>
 <a href="https://www.linkedin.com/in/ibrahim-shafiq-8334b4267/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
-<a href="https://twitter.com/ibrahimshafiq18" target="_blank"><img src="https://img.shields.io/twitter/follow/ibrahimshafiq18?logo=twitter&style=for-the-badge" alt="ibrahimshafiq18"/></a>
+<a href="mailto:ibrahim.shafiq440@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
 
 <p align="center">
@@ -24,15 +24,16 @@ Building end-to-end production systems — from SQL Server and ASP.NET Core Web 
 
 ### 🚀 About Me
 
-- 🔭 3 years of professional experience shipping full-stack systems with **Angular** and **ASP.NET Core**
-- 🪖 Background includes mission-critical systems built during **military service** — soldiers' transfer orders, personnel management, and Arabic-language data-normalization tools deployed on secure local servers
-- 🏢 Front-End Developer at **X-BLEND**, delivering Angular solutions across multiple client projects (AR-Room, Al-Motafwq, AZ-Accounting, BWT, Business Step)
-- 💼 Freelance full-stack delivery: job platforms, e-commerce apps, and more
-- 🧱 Strong foundation in **Clean Architecture**, **SOLID principles**, and **RESTful API design**
-- 🌱 Currently exploring advanced **.NET** and **Angular** patterns through ongoing practice-project repos
-- 💬 Ask me about **Angular**, **ASP.NET Core**, or **NgRx**
-- 📫 Reach me at **ibrahim.shafiq440@gmail.com**
-- 🟢 Open to **Full-Stack .NET Consultant** opportunities
+I'm a Full-Stack Engineer who likes owning a feature end-to-end — from the database schema and the API contract to the last pixel of the UI. Over the past 3 years that's meant building real, high-stakes systems: transfer-order tracking used across military sectors, personnel-management platforms handling nationwide data, and client products for a startup, all with **Angular** on the front and **ASP.NET Core** on the back.
+
+I care about writing code that's still readable a year later — **Clean Architecture**, **SOLID**, and RESTful design aren't buzzwords to me, they're what keeps a system maintainable once five other people are touching it.
+
+- 🏢 Currently a Front-End Developer at **X-BLEND**, shipping Angular products for multiple clients (AR-Room, Al-Motafwq, AZ-Accounting, BWT, Business Step)
+- 🪖 Built and deployed full-stack systems for **military logistics** during my service — confidential, but demos available on request
+- 💼 Freelance work spanning job platforms and e-commerce
+- 🌱 Right now, deepening my **.NET** and **NgRx** skills through ongoing practice-project repos
+- 💬 Happy to talk **Angular**, **ASP.NET Core**, architecture, or anything full-stack
+- 🟢 Open to **Full-Stack .NET Consultant** roles — let's talk
 
 ---
 
@@ -83,12 +84,12 @@ Building end-to-end production systems — from SQL Server and ASP.NET Core Web 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IbrahimShafiq4&show_icons=true&theme=radical" alt="Ibrahim's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimShafiq4&theme=radical" alt="streak stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IbrahimShafiq4&show_icons=true&theme=radical&hide_border=true" alt="Ibrahim's GitHub stats" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=IbrahimShafiq4&theme=radical&hide_border=true" alt="streak stats" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimShafiq4&layout=compact&theme=radical" alt="top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimShafiq4&layout=compact&theme=radical&hide_border=true" alt="top languages"/>
 </p>
 
 ---
@@ -114,7 +115,5 @@ Building end-to-end production systems — from SQL Server and ASP.NET Core Web 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ibrahim-shafiq-8334b4267/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim shafiq" height="30" width="40" /></a>
-<a href="https://twitter.com/ibrahimshafiq18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahimshafiq18" height="30" width="40" /></a>
+<a href="mailto:ibrahim.shafiq440@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
-
-<p align="center"><i>⭐️ من GitHub Profile README Generator</i></p>
