@@ -102,16 +102,6 @@ I care about writing code that's still readable a year later — **Clean Archite
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/IbrahimShafiq4/IbrahimShafiq4/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-> ⚙️ يتطلب هذا القسم عمل Fork لريبو [`Platane/snk`](https://github.com/Platane/snk) وربطه بـ GitHub Action على ريبو `IbrahimShafiq4/IbrahimShafiq4` — هرفقلك الخطوات لو حبيت أعمل الـ workflow file كمان.
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ibrahim-shafiq-8334b4267/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim shafiq" height="30" width="40" /></a>
