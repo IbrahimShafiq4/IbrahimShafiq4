@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Shafiq</h1>
-<h3 align="center">Full-Stack Software Engineer — Angular & .NET | Cairo, Egypt 🇪🇬</h3>
+
+<p align="center">
+<a href="https://github.com/IbrahimShafiq4">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Engineer;Angular+%2B+.NET+Developer;Building+end-to-end+production+systems;Cairo%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
+</a>
+</p>
 
 <p align="center">
 Building end-to-end production systems — from SQL Server and ASP.NET Core Web APIs to polished, responsive Angular interfaces.
@@ -9,6 +14,10 @@ Building end-to-end production systems — from SQL Server and ASP.NET Core Web 
 <a href="https://ib-portfolio-indol.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge" alt="portfolio"/></a>
 <a href="https://www.linkedin.com/in/ibrahim-shafiq-8334b4267/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
 <a href="https://twitter.com/ibrahimshafiq18" target="_blank"><img src="https://img.shields.io/twitter/follow/ibrahimshafiq18?logo=twitter&style=for-the-badge" alt="ibrahimshafiq18"/></a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=IbrahimShafiq4&label=Profile%20Views&color=6c63ff&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -81,6 +90,24 @@ Building end-to-end production systems — from SQL Server and ASP.NET Core Web 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimShafiq4&layout=compact&theme=radical" alt="top languages"/>
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=IbrahimShafiq4&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/IbrahimShafiq4/IbrahimShafiq4/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+> ⚙️ يتطلب هذا القسم عمل Fork لريبو [`Platane/snk`](https://github.com/Platane/snk) وربطه بـ GitHub Action على ريبو `IbrahimShafiq4/IbrahimShafiq4` — هرفقلك الخطوات لو حبيت أعمل الـ workflow file كمان.
 
 ---
 
